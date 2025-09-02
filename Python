@@ -1,0 +1,11 @@
+name='Norah'#string
+ID=1134861739#integer
+price=200.5#flat
+
+
+print(name)
+print(ID)
+print(price)
+
+
+print(name,ID,price)
